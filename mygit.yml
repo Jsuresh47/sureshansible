@@ -9,5 +9,5 @@
     with_items:
      - git
      - tree
-     - wget  
+     - wget
   
