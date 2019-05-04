@@ -1,2 +1,5 @@
 [appserver]
-172.31.17.213
+172.31.27.122
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
