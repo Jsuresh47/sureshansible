@@ -1,11 +1,7 @@
-[ubuntuhosts]
-172.31.25.246
-[redhathosts]
-172.31.23.89
 
 [appserver]
-172.31.25.246
-172.31.23.89
+172.31.25.6
 
-[ubuntuhosts:vars]
+
+[all:vars]
 ansible_python_interpreter=/usr/bin/python3
