@@ -9,4 +9,5 @@
 172.31.30.183
 172.31.31.160
 
-
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
